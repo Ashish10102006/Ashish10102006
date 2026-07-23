@@ -1,5 +1,46 @@
-# 💫 About Me:
-### 🔭 I'm currently working on<br>- Building AI-powered applications, Agentic AI systems, and end-to-end software projects.<br>- Strengthening my problem-solving skills through Data Structures & Algorithms.<br><br>### 🤝 I'm looking to collaborate on<br>- Open-source AI projects, LLM applications, RAG systems, AI agents, and developer tools.<br><br>### 💡 I'm looking for help with<br>- Production-ready AI systems, MLOps, system design, and scalable AI architectures.<br><br>### 🌱 I'm currently learning<br>- Agentic AI, Large Language Models (LLMs), LangGraph, LangChain, FastAPI, RAG, and System Design.<br><br>### 💬 Ask me about<br>- Java, Python, Data Structures & Algorithms, AI Engineering, Git/GitHub, and building intelligent applications.<br><br>### ⚡ Fun fact<br>- I believe the best way to learn is by building real-world projects and solving challenging problems.
+## 💫 About Me
+
+I'm a B.Tech CSE (Cybersecurity) student passionate about **AI Engineering**, **Agentic AI**, and **software development**. I enjoy building intelligent applications, solving algorithmic problems, and continuously learning modern AI technologies.
+
+**🔭 Currently Working On**
+
+* Building AI-powered applications and Agentic AI systems.
+* Developing end-to-end software projects.
+* Strengthening Data Structures & Algorithms skills.
+
+**🤝 Looking to Collaborate On**
+
+* Open-source AI projects.
+* LLM applications, RAG systems, AI agents, and developer tools.
+
+**🌱 Currently Learning**
+
+* Agentic AI
+* Large Language Models (LLMs)
+* LangGraph & LangChain
+* FastAPI
+* Retrieval-Augmented Generation (RAG)
+* System Design
+
+**💡 Seeking Help With**
+
+* Production-ready AI systems
+* MLOps
+* Scalable AI architectures
+* System Design
+
+**💬 Ask Me About**
+
+* Java
+* Python
+* Data Structures & Algorithms
+* AI Engineering
+* Git & GitHub
+
+**⚡ Fun Fact**
+
+* I believe the best way to learn is by building real-world projects and solving challenging problems.
+
 
 
 ## 🌐 Socials:
